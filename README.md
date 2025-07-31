@@ -1,2 +1,1 @@
-# Pipeline
-my very first pipeline
+Jenkins and Tomcat server automation 
